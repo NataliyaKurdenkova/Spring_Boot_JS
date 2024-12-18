@@ -1,0 +1,12 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦Ä”Õşÿÿÿÿ8ô³˜Ú½2J$b8bdd75f-42bd-4d68-a02c-d36e4bacb87b
+˜
+java:S36551"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(²š‡òıÿÿÿÿ8ƒŠçÚ½2J$0a0692f1-a1fb-40e4-9dcf-1b1f096a7768
+ˆ
+java:S4684:"@Replace this persistent entity with a simple POJO or DTO object.(Œ®ü¿ÿÿÿÿÿ8ŠçÚ½2J$01f7ae5f-6e8f-404f-9e9e-8cdbe65d9cc6
+n
+java:S1452:"&Remove usage of generic wildcard type.(Œ®ü¿ÿÿÿÿÿ8´˜Ú½2J$56c122c5-5078-461d-9369-ea61d4c01d12
+ƒ
+java:S4684P"@Replace this persistent entity with a simple POJO or DTO object.(†Â§8“ŠçÚ½2J$737d4dcd-ff31-4d00-9a1c-937b7d83f112
+i
+java:S1452P"&Remove usage of generic wildcard type.(†Â§8”´˜Ú½2J$fca1a8a1-07fc-4cc3-bbea-9c59e3934539
